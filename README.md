@@ -3,7 +3,7 @@ Python voice-assistant
 ## About The Project
   Console Application which help to do your daily work routine.
 
-Why Amigo:
+features
 * It can search on wikipedia.
 * It can open YouTube, Spotify, Whatsapp (if installed on your pc) and other cool stuff.
 * You can easily add your command.
@@ -14,7 +14,6 @@ Why Amigo:
 * Python 3
 
 
-<!-- USAGE EXAMPLES -->
 ## Usage
 1. It is easy to use just you need is basic Python knowledge
 2. You can add your command inside main method by appending ladder if statements.
